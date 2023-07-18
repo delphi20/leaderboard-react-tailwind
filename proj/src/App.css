@@ -1,0 +1,15 @@
+#root {
+  
+  
+  text-align: center;
+}
+
+.aspect-square {
+  width: 100%;
+  height:75%;
+}
+
+.empty-row{
+  height: 20px;
+}
+
